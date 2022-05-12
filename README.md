@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Graduated from Vienna CodeFactory in 2022: "Full Stack Web Developer"
-- Knowledge of: HTML, CSS, SASS, Bootstrap, Java- and TypeScript, Angular | MySQL, PHP, AJAX, API, Symfony
+- Knowledge of: HTML, CSS3, SASS, Bootstrap, Java- and TypeScript, Angular | MySQL, PHP, AJAX, API, Symfony
 - Experience in: Project Management
 - Studied and worked in: International Relations
 - Speaks: German, English, French and a little bit of Spanish
